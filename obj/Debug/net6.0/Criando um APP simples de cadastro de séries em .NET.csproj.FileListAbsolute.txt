@@ -1,0 +1,15 @@
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\bin\Debug\net6.0\Criando um APP simples de cadastro de séries em .NET.exe
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\bin\Debug\net6.0\Criando um APP simples de cadastro de séries em .NET.deps.json
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\bin\Debug\net6.0\Criando um APP simples de cadastro de séries em .NET.runtimeconfig.json
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\bin\Debug\net6.0\Criando um APP simples de cadastro de séries em .NET.dll
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\bin\Debug\net6.0\Criando um APP simples de cadastro de séries em .NET.pdb
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\obj\Debug\net6.0\Criando um APP simples de cadastro de séries em .NET.csproj.AssemblyReference.cache
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\obj\Debug\net6.0\Criando um APP simples de cadastro de séries em .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\obj\Debug\net6.0\Criando um APP simples de cadastro de séries em .NET.AssemblyInfoInputs.cache
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\obj\Debug\net6.0\Criando um APP simples de cadastro de séries em .NET.AssemblyInfo.cs
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\obj\Debug\net6.0\Criando um APP simples de cadastro de séries em .NET.csproj.CoreCompileInputs.cache
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\obj\Debug\net6.0\Criando um APP simples de cadastro de séries em .NET.dll
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\obj\Debug\net6.0\refint\Criando um APP simples de cadastro de séries em .NET.dll
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\obj\Debug\net6.0\Criando um APP simples de cadastro de séries em .NET.pdb
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\obj\Debug\net6.0\Criando um APP simples de cadastro de séries em .NET.genruntimeconfig.cache
+C:\Users\evert.LAPTOP-4LMMS3NB.001\Desktop\Programação\C#\Criando um APP simples de cadastro de séries em .NET\obj\Debug\net6.0\ref\Criando um APP simples de cadastro de séries em .NET.dll
